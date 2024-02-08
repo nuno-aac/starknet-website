@@ -11,9 +11,6 @@ items:
   - username: " thedamooo"
     access:
       - jobs
-  - username: Igal Steklov
-    access:
-      - all
   - username: stoobie
     access:
       - roadmap
@@ -34,5 +31,9 @@ items:
       - all
   - username: tal5674
     name: Tal Levin
+    access:
+      - all
+  - username: igalst
+    name: Igal Steklov
     access:
       - all
